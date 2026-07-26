@@ -243,7 +243,7 @@ By completing this project, you will learn and apply:
 
 ## 👤 Author
 
-**Samuel Ojo**
+**Samuel Ojo** | 
 **Cloud & DevOps Engineer**
 
 **GitHub:** [@ojosamuel129](https://github.com/ojosamuel129)
